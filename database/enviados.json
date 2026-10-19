@@ -1,0 +1,73 @@
+[ {
+  "titulo" : "Metaphor: ReFantazio",
+  "url" : "https://store.playstation.com/pt-br/product/UP0177-PPSA20800_00-METAPHORNA000001",
+  "preco_final" : "R$119,96",
+  "preco_inicial" : "R$299,90",
+  "preco_atual" : "R$119,96",
+  "generos" : "RPG",
+  "imagem" : "https://image.api.playstation.com/vulcan/ap/rnd/202405/2406/cd88404e1345d47052f2db2551dd1e61c8c1e1eae9f9812a.jpg"
+}, {
+  "titulo" : "Clair Obscur: Expedition 33",
+  "url" : "https://store.playstation.com/pt-br/product/EP7579-PPSA17599_00-EXP33000000PS5EU",
+  "preco_final" : "R$187,12",
+  "preco_inicial" : "R$249,50",
+  "preco_atual" : "R$187,12",
+  "generos" : "RPG",
+  "imagem" : "https://image.api.playstation.com/vulcan/ap/rnd/202412/1011/7764db359824f321c21c26f3bc428cbc9e7b4827f09c4a0c.jpg"
+}, {
+  "titulo" : "Dead Space",
+  "url" : "https://store.playstation.com/pt-br/product/UP0006-PPSA03845_00-BEYONDPS5GAME000",
+  "preco_final" : "R$67,78",
+  "preco_inicial" : "R$338,90",
+  "preco_atual" : "R$67,78",
+  "generos" : "Terror",
+  "imagem" : "https://image.api.playstation.com/vulcan/ap/rnd/202209/1918/QAHjTNfduZwTKpiliOcL3WWU.jpg"
+}, {
+  "titulo" : "Street Fighter™ 6",
+  "url" : "https://store.playstation.com/pt-br/product/UP0102-PPSA02632_00-SF600000STANDARD",
+  "preco_final" : "R$87,80",
+  "preco_inicial" : "R$219,50",
+  "preco_atual" : "R$87,80",
+  "generos" : "Luta",
+  "imagem" : "https://image.api.playstation.com/vulcan/ap/rnd/202211/1408/l3bg7nmfPpPzam5jOVlaUFww.jpg"
+}, {
+  "titulo" : "TEKKEN 8",
+  "url" : "https://store.playstation.com/pt-br/product/UP0700-PPSA10595_00-TEKKEN8000000000",
+  "preco_final" : "R$137,94",
+  "preco_inicial" : "R$229,90",
+  "preco_atual" : "R$137,94",
+  "generos" : "Ação, Luta",
+  "imagem" : "https://image.api.playstation.com/vulcan/ap/rnd/202308/0312/c7c8d6fcc443743f7e9a704319fc2e2c7883b95673ca4a5e.jpg"
+}, {
+  "titulo" : "Persona 3 Reload - PS4 e PS5",
+  "url" : "https://store.playstation.com/pt-br/product/UP0177-PPSA10872_00-APPLICATION00000",
+  "preco_final" : "R$104,96",
+  "preco_inicial" : "R$299,90",
+  "preco_atual" : "R$104,96",
+  "generos" : "RPG",
+  "imagem" : "https://image.api.playstation.com/vulcan/ap/rnd/202307/2605/7b70e463bf05b20fbf99f8bf81956aa805969da98d9dcde8.jpg"
+}, {
+  "titulo" : "FINAL FANTASY XVI",
+  "url" : "https://store.playstation.com/pt-br/product/UP0082-PPSA10664_00-FF16SIEA00000002",
+  "preco_final" : "R$99,80",
+  "preco_inicial" : "R$249,50",
+  "preco_atual" : "R$99,80",
+  "generos" : "Ação, RPG",
+  "imagem" : "https://image.api.playstation.com/vulcan/ap/rnd/202211/3007/JnzRCl2Yj208yuJoSfoGXMGt.jpg"
+}, {
+  "titulo" : "Lies of P",
+  "url" : "https://store.playstation.com/pt-br/product/UP1685-PPSA10261_00-4396566144501976",
+  "preco_final" : "R$169,95",
+  "preco_inicial" : "R$339,90",
+  "preco_atual" : "R$169,95",
+  "generos" : "RPG, Ação",
+  "imagem" : "https://image.api.playstation.com/vulcan/ap/rnd/202305/2508/726aecde55db02155c75a121cc914c7d48d66fabcea33fe7.jpg"
+}, {
+  "titulo" : "Shin Megami Tensei V: Vengeance",
+  "url" : "https://store.playstation.com/pt-br/product/UP0177-PPSA15716_00-SMTVDXUS00000000",
+  "preco_final" : "R$95,97",
+  "preco_inicial" : "R$319,90",
+  "preco_atual" : "R$95,97",
+  "generos" : "RPG",
+  "imagem" : "https://image.api.playstation.com/vulcan/ap/rnd/202402/1321/e877d53f05ee7b5d17a69e189e4373bd38c024f81361faad.jpg"
+} ]
